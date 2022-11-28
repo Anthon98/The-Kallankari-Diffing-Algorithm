@@ -1,4 +1,4 @@
-# A new similarity metric diffing algorithm created by Github user Anthon98.
+# My new WIP similarity metric diffing algorithm.
 
 ''' I want to avoid using libraries so that this can easily be converted into other programming languages.
     As of 21.10.2021 the most complex parts of the code have been made, but the ratio calculation is not here yet. '''
